@@ -1,0 +1,6 @@
+{
+  "name": "CalcStudio - Percentage, GST & Age Calculators",
+  "description": "A modern, fast, responsive calculator suite featuring Percentage, GST, and Age Calculators with step-by-step breakdowns, PDF export, SEO schema, and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
